@@ -1,2 +1,2 @@
 # hello-world
-updating my readme.
+Updating my readme.
